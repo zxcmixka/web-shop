@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Main = () => {
+export const ShoppingCartPage = () => {
   return (
     <div>
-      <h1>Hello React/TS!</h1>
+      <h1>qweqwewqewq</h1>
     </div>
   );
 }

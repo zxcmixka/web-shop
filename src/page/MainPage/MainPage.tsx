@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Cart = () => {
+export const MainPage = () => {
   return (
     <div>
-      <h1>Hello React/TS!</h1>
+        <h1>52</h1>
     </div>
   );
 }
