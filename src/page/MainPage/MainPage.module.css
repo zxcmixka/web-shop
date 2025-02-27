@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    background-color: #f4f4f4 ;
+    width: 175vh;
+    margin-top: 15vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product{
+    background-color: bisque;
+    width: 25vh;
+    height: 35vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1vh;
+}
+
+.product button{
+    background-color: #8a2be2;
+
+
+    border: none;
+    border-radius: 2vh;
+    margin-top: 20vh;
+    color: white;
+}
+.product button:hover{
+    background-color: #9f3dfb
+}
+
+.product img{
+    width: 25vh;
+    height: auto;
+}
