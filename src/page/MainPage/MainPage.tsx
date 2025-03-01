@@ -6,22 +6,22 @@ export const MainPage = () => {
   return (
     <div className={styles.content}>
       <div className={styles.product}>
-        <img src={"test"} alt="qwewqewqe" />
+        <img src={"test"} alt="123" />
         <h2>sdfksdfdslfsdmfsdlf</h2>
         <button ><h1>1200</h1></button>
       </div>
       <div className={styles.product}>
-        <img src="test" alt="qwewqewqe" />
+        <img src="test" alt="123" />
         <h2>sdfksdfdslfsdmfsdlf</h2>
         <button ><h1>1200</h1></button>
       </div>
       <div className={styles.product}>
-        <img src="" alt="qwewqewqe" />
+        <img src="" alt="123" />
         <h2>sdfksdfdslfsdmfsdlf</h2>
         <button ><h1>1200</h1></button>
       </div>
       <div className={styles.product}>
-        <img src="" alt="qwewqewqe" />
+        <img src="" alt="123" />
         <h2>sdfksdfdslfsdmfsdlf</h2>
         <button ><h1>1200</h1></button>
       </div>
