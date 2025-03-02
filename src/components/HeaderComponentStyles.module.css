@@ -8,6 +8,7 @@
     top: 0;
     left: 0;
     box-shadow: 0vh 0vh 1vh 0vh rgb(110, 110, 255);
+    z-index: 999;
 }
 
 .button{
@@ -36,4 +37,12 @@
     top: -2vh;
     font-size: 5vh;
     left: 14%;
+}
+.create{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    top: -2.5vh;
+    font-size: 3vh;
+    right: 20%;
 }
