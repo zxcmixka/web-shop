@@ -11,6 +11,7 @@ export const HeaderComponent = () => {
                 <Link to={"/"} className={styles.button}>
                 <img className={styles.home} src={logo} alt="logo" /> <h1 className={styles.logotext}>mxk$hop</h1>
                 </Link>
+                <Link to={"/Create"} className={styles.create}> <h1>Create</h1> </Link>
                 <Link to={"/ShoppingCartPage"} className={styles.button}>
                     <img className={styles.cart} src={cart} alt="Cart" />
                 </Link>

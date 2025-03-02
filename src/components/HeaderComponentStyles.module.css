@@ -38,3 +38,11 @@
     font-size: 5vh;
     left: 14%;
 }
+.create{
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    top: -2.5vh;
+    font-size: 3vh;
+    right: 20%;
+}
